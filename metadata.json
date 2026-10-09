@@ -1,0 +1,6 @@
+{
+  "name": "ElectricalEngineering Laboratory",
+  "description": "Premier research laboratory dedicated to advanced silicon microarchitectures, RF systems, wide-bandgap power electronics, and quantum instrumentation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
