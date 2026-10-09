@@ -57,5 +57,5 @@ Ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone [https://github.com/your-username/electrical-lab.git](https://github.com/your-username/electrical-lab.git)
-   cd electrical-lab
+   git clone https://github.com/zhafaatrahimizainal/Electrical-Lab.git
+   cd Electrical-Lab
